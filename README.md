@@ -1,4 +1,7 @@
 # Bandicam-Lifetime
+
+PASS:Bandicam-Lifetime.setup
+
 Bandicam Extended Functionality Version: Feature Guide
 
 Main features:
